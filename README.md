@@ -1,2 +1,2 @@
 # Knockout-Validation
-Student form validation by using Knockout JS
+Student form validation repositoty using Knockout JS
